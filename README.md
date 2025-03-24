@@ -14,10 +14,9 @@ To run this application, you'll need:
 1. **Clone the directory**
   ```bash
   git clone https://github.com/rafailsialakis/TicTacToe
-  cd TicTacToe
   ```
 
 2. **Run the Game:**
-   ```bash
+  ```bash
    java -jar TicTacToeAI.jar
    ```
